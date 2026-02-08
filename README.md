@@ -2,10 +2,6 @@
 
 ## I'm armcase, a CS student at SNHU
 
-- I like game development, music, art, cybersecurity and coding
-
-- I'm currently learning python, c#, and git
-
-- My main goal is to get a demo for a game up by next year
-
+- C++, C#, Python, SQL
+- Still figuring out what I want to specilize in, really like software development, databases, cybersecurity, game development
 - I love otters and ocean wildlife!
